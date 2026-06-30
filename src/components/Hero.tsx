@@ -31,7 +31,7 @@ export default function Hero() {
             </motion.div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-900 mb-6 tracking-tight leading-tight">
-              Premium Refreshing <br />
+              Nepal&apos;s Premium <br />
               <span className="text-[#FF7A00]">Badam Drink</span>
             </h1>
             
