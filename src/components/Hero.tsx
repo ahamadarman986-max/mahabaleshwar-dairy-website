@@ -31,12 +31,12 @@ export default function Hero() {
             </motion.div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-900 mb-6 tracking-tight leading-tight">
-              Premium Dairy Beverages <br />
-              <span className="text-[#FF7A00]">Made with Natural Goodness</span>
+              Nepal&apos;s Premium <br />
+              <span className="text-[#FF7A00]">Badam Drink</span>
             </h1>
             
             <p className="text-lg md:text-xl text-gray-600 mb-10 max-w-xl mx-auto lg:mx-0 leading-relaxed font-medium">
-              Enjoy the rich taste of Mahabaleshwar Dairy &amp; Beverage, crafted with quality ingredients and authentic flavors for a refreshing experience in every sip.
+              Made with carefully selected quality ingredients, natural goodness, and authentic flavors to deliver a refreshing experience in every sip and bring a perfect taste to every moment.
             </p>
             
             <div className="flex flex-wrap gap-5 justify-center lg:justify-start">
