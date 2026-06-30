@@ -30,8 +30,9 @@ export default function Hero() {
               Premium Dairy Refreshment
             </motion.div>
 
-            <h1 className="text-4xl md:text-5xl lg:text-[3.5rem] font-extrabold leading-[1.15] text-gray-900 mb-6 tracking-tight">
-              Premium Refreshing <span className="text-amber-500">Badam Drink</span> with Rich Taste.
+            <h1 className="text-5xl md:text-6xl lg:text-[4.2rem] font-extrabold leading-[1.1] text-gray-900 mb-6 tracking-tight">
+              Premium Refreshing <br />
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#FF7A00] to-amber-400">Badam Drink</span>
             </h1>
             
             <p className="text-lg md:text-xl text-gray-600 mb-10 max-w-xl mx-auto lg:mx-0 leading-relaxed font-medium">
