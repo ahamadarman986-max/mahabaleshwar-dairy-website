@@ -36,7 +36,7 @@ export default function Hero() {
             </h1>
             
             <p className="text-lg md:text-xl text-gray-600 mb-10 max-w-xl mx-auto lg:mx-0 leading-relaxed font-medium">
-              Made with carefully selected quality ingredients, natural goodness, and authentic flavors to deliver a refreshing experience in every sip and bring a perfect taste to every moment.
+              Enjoy the rich taste of Mahabaleshwar Dairy &amp; Beverage, crafted with quality ingredients and authentic flavors for a refreshing experience in every sip.
             </p>
             
             <div className="flex flex-wrap gap-5 justify-center lg:justify-start">
