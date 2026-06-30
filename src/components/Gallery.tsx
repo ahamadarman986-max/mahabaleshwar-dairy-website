@@ -32,7 +32,7 @@ export default function Gallery() {
             viewport={{ once: true }}
             className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-orange-100 text-[#FF7A00] font-bold mb-4 text-xs uppercase tracking-widest"
           >
-            Inside Aura Dairy
+            Inside Mahabaleshwor Dairy
           </motion.div>
           <motion.h2 
             initial={{ opacity: 0, y: 20 }}

@@ -7,7 +7,7 @@ import Footer from "@/components/Footer";
 const outfit = Outfit({ subsets: ["latin"], weight: ['300', '400', '500', '600', '700', '800'] });
 
 export const metadata: Metadata = {
-  title: "Aura Dairy | Premium Dairy Beverages",
+  title: "Mahabaleshwor Dairy | Premium Dairy Beverages",
   description: "Premium dairy beverages crafted with rich flavors and natural goodness.",
 };
 
